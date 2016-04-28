@@ -1,0 +1,9 @@
+name: Sudheesh's GSoC 2016 Blog
+markdown: redcarpet
+highlighter: pygments
+github: https://www.github.com/sudheesh001
+about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
+urls:
+    - text: github
+      url: https://github.com/sudheesh001
+baseurl: ''
