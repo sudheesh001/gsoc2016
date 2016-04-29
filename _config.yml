@@ -2,7 +2,7 @@ name: Sudheesh's GSoC 2016 Blog
 markdown: redcarpet
 highlighter: pygments
 github: https://www.github.com/sudheesh001
-about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
+about: I am currently a student under Google Summer of Code 2016 working with Loklak in FOSSASIA and the other tools required to make loklak happen. I am an active open source contributor and dedicate myself to the open source community and open software.
 urls:
     - text: github
       url: https://github.com/sudheesh001
