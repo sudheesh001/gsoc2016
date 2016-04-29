@@ -157,3 +157,7 @@ div.col-sm-3 img#about {
     margin-left: auto;
     margin-right: auto;
 }
+
+p {
+    text-align: justify;
+}
