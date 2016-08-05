@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IOT data push in different formats now supported"
-date:   2016-06-06 00:18:23 
+date:   2016-06-11 00:18:23 
 categories: loklak
 ---
 
